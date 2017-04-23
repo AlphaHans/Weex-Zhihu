@@ -1,6 +1,6 @@
-# Anjuke
+# Zhihu
 
-> Anjuke
+> Zhihu
 
 ## getting start
 
